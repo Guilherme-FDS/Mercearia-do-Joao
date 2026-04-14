@@ -37,7 +37,7 @@ CSS
 JavaScript
 📁 Estrutura do projeto
 mercearia/
-├── beckend/
+├── backend/
 │   ├── app.py
 │   ├── dados.json
 │   └── requirements.txt
@@ -48,6 +48,7 @@ mercearia/
     ├── style.css
     ├── sw.js
     └── manifest.json
+
 ⚙️ Como executar o projeto
 1. Clonar o repositório
 git clone https://github.com/SEU-USUARIO/mercearia.git
